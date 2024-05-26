@@ -8,15 +8,14 @@ gantt
     axisFormat %a %H:%M
     section Friday
       Opening Ceremony  :crit, 2024-05-31 10:00, 30m
+      Script your way to circuit boards with CircuitPainter  :done, 2024-05-31 10:30, 60m
       The Tiny Tool Kit Manifesto  :active, 2024-05-31 11:40, 30m
+      Build your own sensor.community air quality monitoring station!  :done, 2024-05-31 12:30, 60m
+      Digital Music Synthesis/Solder workshop with ArduTouch music synthesizer kit  :done, 2024-05-31 13:30, 150m
       Let's Party Like It's 1994 - Re-Imagining How to Find Stuff Online  :active, 2024-05-31 13:40, 30m
       Lightning talks (Friday)  :2024-05-31 15:30, 30m
-      Make a game in an hour or two!  :done, 2024-05-31 16:00, 120m
+      Matchmaking for Creators  :done, 2024-05-31 16:00, 60m
       Downpour & more  :2024-05-31 16:40, 30m
-      How I found a Roman Villa (or temple)  :crit, 2024-05-31 17:20, 30m
-      Surface mount electronics assembly for terrified beginners  :done, 2024-05-31 18:30, 120m
-      Is everything difficult, or is it just me?  :crit, 2024-05-31 18:40, 40m
-      The Journey is the Reward  :2024-05-31 19:30, 30m
       Mastodon.me.uk (and fediverse friends) Tootup  :done, 2024-05-31 21:00, 60m
     section Saturday
       Computer Font Making Workshop  :done, 2024-06-01 10:00, 120m
@@ -25,6 +24,7 @@ gantt
       Are archivists pointless when the cloud can just save everything?  :active, 2024-06-01 11:20, 30m
       From Tax Law to Tangible Dreams  :2024-06-01 12:30, 20m
       Exploring and extending the Elite game engine for the BBC Micro  :active, 2024-06-01 12:40, 40m
+      Eavesdropping on Eastnor’s bats  :done, 2024-06-01 13:00, 90m
       Keeping shell history in sync with turtles and magic  :2024-06-01 13:40, 30m
       Making automata from paper clips and beads  :done, 2024-06-01 14:30, 120m
       Hack the Printer! Hack the Printer!  :active, 2024-06-01 14:50, 30m
@@ -37,14 +37,17 @@ gantt
       Up - A Scientist's Guide to the Magic Above Us  :active, 2024-06-01 19:30, 30m
     section Sunday
       From Makerspace to Outer Space  :active, 2024-06-02 10:00, 30m
-      Making sense of London Underground's timetables and real-time data  :active, 2024-06-02 11:10, 30m
+      Where is the Art? A history in Technology  :2024-06-02 11:10, 20m
       Bringing Any Super 8 Camera Into The Digital Age  :active, 2024-06-02 11:50, 30m
       BIG PIPES! A dive into Scotland's hidden underground hydroelectric infrastructure 🌊  :crit, 2024-06-02 12:20, 30m
       Contrary to popular belief, tech needs unions  :crit, 2024-06-02 13:40, 30m
       Hack The Plan  :active, 2024-06-02 14:00, 30m
       Badge Talk  :crit, 2024-06-02 14:20, 30m
       Art with character(s)  :done, 2024-06-02 14:30, 60m
+      Surface mount electronics assembly for terrified beginners  :done, 2024-06-02 15:00, 120m
+      BMI270 sensor, the Badge, MicroPython and everything  :done, 2024-06-02 16:00, 90m
       Driving fancy LED panels with commodity hardware  :2024-06-02 16:40, 30m
       How to build a physical work/life balance.  :active, 2024-06-02 17:30, 30m
       Closing ceremony  :crit, 2024-06-02 19:00, 30m
+      Karaoke  :done, 2024-06-02 20:00, 180m
 ```
